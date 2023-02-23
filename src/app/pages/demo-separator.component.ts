@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { SeparatorComponent } from '../uikit/separator.component';
+import { SeparatorComponent } from '../uikit/components/separator.component';
 
 @Component({
   selector: 'app-demo-separator',

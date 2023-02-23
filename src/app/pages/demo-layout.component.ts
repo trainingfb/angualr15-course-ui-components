@@ -1,8 +1,8 @@
 import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { AccordionComponent } from '../uikit/accordion.component';
-import { FxComponent } from '../uikit/fx.component';
-import { PanelComponent } from '../uikit/panel.component';
+import { AccordionComponent } from '../uikit/components/accordion.component';
+import { FxComponent } from '../uikit/components/fx.component';
+import { PanelComponent } from '../uikit/components/panel.component';
 
 @Component({
   selector: 'app-demo-layout',

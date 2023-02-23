@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { LeafletComponent } from '../uikit/leaflet.component';
-import { StaticMapComponent } from '../uikit/static-map.component';
+import { LeafletComponent } from '../uikit/components/leaflet.component';
+import { StaticMapComponent } from '../uikit/components/static-map.component';
 
 @Component({
   selector: 'app-demo-maps',

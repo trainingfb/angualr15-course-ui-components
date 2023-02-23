@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { City, Country } from '../model/country';
-import { TabbarComponent } from '../uikit/tab-bar.component';
+import { TabbarComponent } from '../uikit/components/tab-bar.component';
 
 @Component({
   selector: 'app-demo-tabbar',
